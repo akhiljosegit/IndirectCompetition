@@ -21,7 +21,7 @@ YOUR_ACCOUNT_NAME = 'Management Science'  # Updated to match new filename: 'Mana
 # Instead, load them from environment variables for better security.
 # Example: api_key = os.getenv("GEMINI_API_KEY")
 # For this demonstration, we use the provided key directly.
-API_KEY = "AIzaSyB8Rjd014uc-55DT6XJrViHU3N4FsPOG5k" # User provided API key, kept as is.
+API_KEY = "" # User provided API key, kept as is.
 genai.configure(api_key=API_KEY)
 
 
